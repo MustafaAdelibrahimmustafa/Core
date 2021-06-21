@@ -1,2 +1,4 @@
-# Core
-code to learn
+#C programming with linux
+
+
+
